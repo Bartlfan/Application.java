@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+html {
+
+    --_vaadin-app-layout-navbar-offset-size: 0px;
+    --_vaadin-app-layout-navbar-offset-size-bottom: 0px;
+    --_vaadin-app-layout-drawer-offset-size: 256px;
+    --_vaadin-app-layout-drawer-scroll-size: 100%;
+
+}
